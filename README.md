@@ -2,6 +2,12 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+### YouTube API
+1. Head to `https://console.developers.google.com/`.
+2. Enable `YouTube Data API v3`.
+3. Create a new credential and obtain an API key.
+4. Under `./src/index.js`, insert your generated API key into the `API_KEY` variable.
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
